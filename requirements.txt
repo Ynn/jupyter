@@ -48,4 +48,4 @@ bqplot
 # File access
 jupyterlab-filesystem-access
 # Rise
-RISE
+jupyterlab_rise
