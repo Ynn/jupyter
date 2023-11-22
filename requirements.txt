@@ -47,5 +47,5 @@ bqplot
 
 # File access
 jupyterlab-filesystem-access
-# Rise
-jupyterlab_rise
+
+sympy
