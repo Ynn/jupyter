@@ -47,6 +47,5 @@ bqplot==0.12.42
 
 # File access
 jupyterlab-filesystem-access
-jupyterlab-bqplot
 
 sympy
